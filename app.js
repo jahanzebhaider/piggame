@@ -72,7 +72,7 @@ function nextPlayer() {
     //document.querySelector('.player-0-panel').classList.remove('active');
     //document.querySelector('.player-1-panel').classList.add('active');
 
-    document.querySelector('.dice').style.display = 'none';
+  //  document.querySelector('.dice').style.display = 'none';
 }
 
 document.querySelector('.btn-new').addEventListener('click', init);
@@ -83,7 +83,7 @@ function init() {
     roundScore = 0;
     gamePlaying = true;
     
-    document.querySelector('.dice').style.display = 'none';
+   document.querySelector('.dice').style.display = 'none';
     var player1=prompt('Enter  player1 name')
     var player2=prompt('Enter  player2 name')
     
