@@ -1,0 +1,69 @@
+@media only screen and (max-width: 600px) {
+  div{
+      align-items: center;
+      
+  }
+  h1{
+      text-align: center;
+      color: lightcoral;
+  }
+  h3{
+      text-align: center;
+      color: rgb(184, 88, 88);
+  }
+  .button:hover{
+      color: aqua;
+  }
+  }
+  @media only screen and (max-width: 800px) {
+    div{
+        align-items: center;
+    }
+    h1{
+        text-align: center;
+        color: lightcoral;
+    }
+    h3{
+        text-align: center;
+        color: rgb(184, 88, 88);
+    }
+  }
+  @media only screen and (max-width: 1280px) {
+    div{
+        align-items: center;
+    }
+    h1{
+        text-align: center;
+        color: lightcoral;
+    }
+    h3{
+        text-align: center;
+        color: rgb(184, 88, 88);
+    }
+  }
+  @media only screen and (max-width: 1080px) {
+    div{
+        align-items: center;
+    }
+    h1{
+        text-align: center;
+        color: lightcoral;
+    }
+    h3{
+        text-align: center;
+        color: rgb(184, 88, 88);
+    }
+  }
+  @media only screen and (max-width: 1380px) {
+    div{
+        align-items: center;
+    }
+    h1{
+        text-align: center;
+        color: lightcoral;
+    }
+    h3{
+        text-align: center;
+        color: rgb(184, 88, 88);
+    }
+  }
